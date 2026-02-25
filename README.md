@@ -1,3 +1,9 @@
+<!--
+Great job on Node News!! This looks very legit and I like how straightforward of a system it is! If I had to make any notes it would be the following:
+- Regarding your front end! Love the minimalist aesthetic and retro vibe. i can see tat it was also designed to work well with mobile devices quite well! I would note that your style isn't being consistently applied, and a few areas, notably your dropdown on the post article form makes the dropdown options hard to read. I'd recommend using Bootstrap as a Dev Dependency and compiling a css file from the Bootstrap's scss file to provide a more holistic styling rather than styling each element as needed.
+- Regarding backend functionality, looks great! I'm impressed you were able to get a login functionality going in such a short time, as well as so many different routes. I did notice that after trying to post a test article, that it wouldn't appear in the recent tab on subsequent pages. I'd take a closer look at your Post operation logic to see what is going on there.
+-->
+
 # NodeNews
 
 A News Social Media platform
